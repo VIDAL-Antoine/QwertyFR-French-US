@@ -1,6 +1,6 @@
 If you prefer a more sophisticated layout check out [QWERTY-fr](https://github.com/qwerty-fr/qwerty-fr)
 
-# French (US) - Keyboard layout based on the Linux layout of the same name
+# French (US) Extended - Keyboard layout based on the Linux layout of the same name
 
 The Ubuntu OS (so I guess other Linux distros) offers a keyboard layout for French people that the accented letters to a QWERTY layout.
 
