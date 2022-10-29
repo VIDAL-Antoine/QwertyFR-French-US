@@ -11,7 +11,7 @@ So I decided to create an equivalent for the Windows OS with some more character
 
 ## Overview
 
-The next images show the keys binded to the Alt key and then the Shift + Alt keys.
+The next images show the keys binded to the Alt key and then the Shift + Alt keys. The idea was just to add mathematical signs and greek letters when the key combination didn't type anything. 
 
 ![QwertyFRAltGr](https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/QwertyFRAltGr.jpg)
 
