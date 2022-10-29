@@ -4,7 +4,7 @@ If you prefer a more sophisticated layout check out [QWERTY-fr](https://github.c
 
 The Ubuntu OS (so I guess other Linux distros) offers a keyboard layout for French people that the accented letters to a QWERTY layout.
 
-https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/keyboard_layout_french_us.png?raw=true
+https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/keyboard_layout_french_us.png
 
 So I decided to create an equivalent for the Windows OS with some more characters mainly for the Alt and Shift + Alt combinations.
 
@@ -13,9 +13,9 @@ So I decided to create an equivalent for the Windows OS with some more character
 
 The next images show the keys binded to the Alt key and then the Shift + Alt keys.
 
-https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/QwertyFRAltGr.jpg?raw=true
+https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/QwertyFRAltGr.jpg
 
-https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/QwertyFRShftAltGr.jpg?raw=true
+https://github.com/VIDAL-Antoine/QwertyFR_French_US/blob/main/QwertyFRShftAltGr.jpg
 
 
 ## How to install
