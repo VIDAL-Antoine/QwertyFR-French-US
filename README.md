@@ -20,7 +20,7 @@ The non Alt keys are like the standard QWERTY layout (which can be seen in the i
 
 ## How to install
 
-### Winfows
+### Windows
 
 To install it on Windows just get the .zip and start setup.exe.
 
